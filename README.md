@@ -7,3 +7,4 @@
 | 2021-11-17 12:10-13:00pm | Z1-408 | 袁金建    | Short-sale Constraints and Cross-predictability : Evidence from Chinese Market |  
   
 活动照片： 
+![](https://github.com/bingyenufe/seminar/blob/main/IMG_20211117_122159.jpg)
