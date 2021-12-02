@@ -10,7 +10,7 @@
 报告人：袁金建  
 报告题目：Short-sale Constraints and Cross-predictability : Evidence from Chinese Market   
   
-活动照片： 
-```{r setup, echo=FALSE}
+活动照片：<br>
+```{r, out.height="75%", out.width="75%", echo=FALSE}
 knitr::include_graphics("figs/sem_pho1_comp.jpg")
 ```
