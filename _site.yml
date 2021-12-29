@@ -6,4 +6,4 @@ navbar:
     - text: "简介"
       href: index.html
     - text: "日程"
-      href: ReadMe.html
+      href: workshop.html
