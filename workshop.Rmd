@@ -8,9 +8,14 @@
 | ---- | ---- | ---- | -------- |
 | 2021-10-13 12:05-13:00pm | Z1-408 |张雪凯 | 童年随迁经历与劳动力市场表现 |
 | 2021-11-17 12:10-13:00pm | 公共财政中心 | 袁金建 | Short-sale Constraints and Cross-predictability : Evidence from Chinese Market |
-| 2021-12-* 12:30-13:00pm | Z1-408 | 刘亮亮 | * |
+| 2021-12-15 12:30-13:00pm | Z1-408 | 刘亮亮 | 财政纵向失衡会抑制区域创新效率的提升吗？ |
 
-活动照片：<br>
+活动照片：
+
 ```{r, out.height="75%", out.width="75%", echo=FALSE}
 knitr::include_graphics("figs/sem_pho1_comp.jpg")
+```
+
+```{r, out.height="75%", out.width="75%", echo=FALSE}
+knitr::include_graphics("figs/sem_pho2_comp.jpg")
 ```
